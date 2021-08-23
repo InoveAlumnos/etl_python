@@ -16,7 +16,6 @@ __version__ = "1.1"
 
 import bonobo
 import time
-import requests
 
 # Install bonobo
 #   pip3 install -U bonobo
